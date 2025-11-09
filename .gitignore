@@ -1,0 +1,29 @@
+# Build output
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+
+# IDE settings
+.vscode/
+.settings/
+.project
+.cproject
+.idea/
+*.launch
+*.uvproj*
+*.uvoptx
+*.suo
+*.user
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.swp
